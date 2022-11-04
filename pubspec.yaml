@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   dio: ^4.0.6
-  firebase_performance: ^0.9.0+4
+  firebase_performance: ^0.8.3+3
 
 dev_dependencies:
   flutter_test:
